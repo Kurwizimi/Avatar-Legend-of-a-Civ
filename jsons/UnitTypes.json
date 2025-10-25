@@ -92,11 +92,13 @@
     },
     {
         "name": "Technical Amphibious",
+         "movementType": "Land",
         "uniques": ["Can pass through impassable tiles",
         "Can see over obstacles","Ranged attacks may be performed over obstacles","Can pass through impassable tiles",
         "Ignores terrain cost","Ignores Zone of Control","All tiles cost 1 movement","Siege"]
     },
     {
         "name": "Pinniped"
+         "movementType": "Land",
     }
 ]

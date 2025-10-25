@@ -11,6 +11,7 @@
 					"Generated on every [19] tiles <in [{Featureless} {Desert}] tiles>",
                 "Generated on every [8] tiles <in [{Featureless} {Magma plains}] tiles>"]
         },
+	
         {
                 "name": "Iron",
 		"resourceType": "Strategic",

@@ -6,7 +6,7 @@
                 "production": 2,
                 "hurryCostModifier": 25,
 		"maintenance": 3,
-		"uniques": ["New [Military] units start with [20] Experience [in this city]", "Destroyed when the city is captured"],
+		"uniques": ["New [Military] units start with [20] XP [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
         },
 	{

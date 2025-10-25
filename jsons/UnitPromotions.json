@@ -1,7 +1,7 @@
 [
         {
                 "name": "Person of Air",
-                "uniques": ["Ignores terrain cost <in [Hill] tiles>","Ignores terrain cost <in [Mountain] tiles>","Heal this unit by [15] HP <upon ending a turn in a [Mountain] tile>"]
+                "uniques": ["Ignores terrain cost <in [Hill] tiles>","Ignores terrain cost <in [Mountain] tiles>","[This unit] heals [15] HP <upon ending a turn in a [Mountain] tile>"]
         },
         {
                 "name": "Fire Elemental",
@@ -14,7 +14,7 @@
         {
                 "name": "Lunar Hymns",
                 "uniques": ["Can enter ice tiles","[+10]% Strength <when fighting in [Snow] tiles>",
-                "Heal this unit by [10] HP <upon ending a turn in a [All] tile> <when adjacent to a [Cleric] unit>"]
+                "[This Unit] heals [10] HP <upon ending a turn in a [All] tile> <when adjacent to a [Cleric] unit>"]
          },
         {
                 "name": "Moon Power",

@@ -137,413 +137,238 @@ ReligionIcons/Adoration of the Moon
   orig: 100, 100
   offset: 0, 0
   index: -1
-Tilesets/AbsoluteUnits/Units/Air Bender
+TileSets/AbsoluteUnits/Units/Air Bender
   rotate: false
   xy: 747, 196
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
-Tilesets/AbsoluteUnits/Units/Air Bison
+TileSets/AbsoluteUnits/Units/Air Bison
   rotate: false
   xy: 851, 196
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
-Tilesets/AbsoluteUnits/Units/Dai Lee
+TileSets/AbsoluteUnits/Units/Dai Lee
   rotate: false
   xy: 955, 196
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
-Tilesets/AbsoluteUnits/Units/Earth Bender
+TileSets/AbsoluteUnits/Units/Earth Bender
   rotate: false
   xy: 1059, 196
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
-Tilesets/AbsoluteUnits/Units/Fire Bender
+TileSets/AbsoluteUnits/Units/Fire Bender
   rotate: false
   xy: 1163, 196
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
-Tilesets/AbsoluteUnits/Units/Fire Nation Airship
+TileSets/AbsoluteUnits/Units/Fire Nation Airship
   rotate: false
   xy: 1267, 196
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
-Tilesets/AbsoluteUnits/Units/Water Bender
+TileSets/AbsoluteUnits/Units/Water Bender
   rotate: false
   xy: 1371, 196
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
-Tilesets/AbsoluteUnits/Units/boat
+TileSets/AbsoluteUnits/Units/boat
   rotate: false
   xy: 1475, 196
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
-Tilesets/City center-Air Tribe-Ancient era
+TileSets/FantasyHex/Tiles/City center-Air Tribe-Ancient era
   rotate: false
   xy: 627, 148
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
-Tilesets/FantasyHex/Tiles/City center-Air Tribe-Ancient era
-  rotate: false
-  xy: 627, 148
-  size: 32, 36
-  orig: 32, 36
-  offset: 0, 0
-  index: -1
-Tilesets/City center-Air Tribe-Medieval era
+TileSets/FantasyHex/Tiles/City center-Air Tribe-Medieval era
   rotate: false
   xy: 45, 56
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
-Tilesets/FantasyHex/Tiles/City center-Air Tribe-Medieval era
-  rotate: false
-  xy: 45, 56
-  size: 32, 36
-  orig: 32, 36
-  offset: 0, 0
-  index: -1
-Tilesets/City center-Earth Kingdom-Ancient era
+TileSets/FantasyHex/Tiles/City center-Earth Kingdom-Ancient era
   rotate: false
   xy: 4, 9
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
-Tilesets/FantasyHex/Tiles/City center-Earth Kingdom-Ancient era
-  rotate: false
-  xy: 4, 9
-  size: 32, 30
-  orig: 32, 30
-  offset: 0, 0
-  index: -1
-Tilesets/City center-Earth Kingdom-Classsical era
+TileSets/FantasyHex/Tiles/City center-Earth Kingdom-Classsical era
   rotate: false
   xy: 627, 111
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
-Tilesets/FantasyHex/Tiles/City center-Earth Kingdom-Classsical era
-  rotate: false
-  xy: 627, 111
-  size: 32, 29
-  orig: 32, 29
-  offset: 0, 0
-  index: -1
-Tilesets/City center-Earth Kingdom-Medieval era
+TileSets/FantasyHex/Tiles/City center-Earth Kingdom-Medieval era
   rotate: false
   xy: 907, 158
   size: 30, 30
   orig: 30, 30
   offset: 0, 0
   index: -1
-Tilesets/FantasyHex/Tiles/City center-Earth Kingdom-Medieval era
-  rotate: false
-  xy: 907, 158
-  size: 30, 30
-  orig: 30, 30
-  offset: 0, 0
-  index: -1
-Tilesets/City center-Earth Kingdom-Renaissance era
+TileSets/FantasyHex/Tiles/City center-Earth Kingdom-Renaissance era
   rotate: false
   xy: 667, 152
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
-Tilesets/FantasyHex/Tiles/City center-Earth Kingdom-Renaissance era
-  rotate: false
-  xy: 667, 152
-  size: 32, 32
-  orig: 32, 32
-  offset: 0, 0
-  index: -1
-Tilesets/City center-Fire Nation-Ancient era
+TileSets/FantasyHex/Tiles/City center-Fire Nation-Ancient era
   rotate: false
   xy: 85, 60
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
-Tilesets/FantasyHex/Tiles/City center-Fire Nation-Ancient era
-  rotate: false
-  xy: 85, 60
-  size: 32, 32
-  orig: 32, 32
-  offset: 0, 0
-  index: -1
-Tilesets/City center-Fire Nation-Classical era
+TileSets/FantasyHex/Tiles/City center-Fire Nation-Classical era
   rotate: false
   xy: 667, 112
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
-Tilesets/FantasyHex/Tiles/City center-Fire Nation-Classical era
-  rotate: false
-  xy: 667, 112
-  size: 32, 32
-  orig: 32, 32
-  offset: 0, 0
-  index: -1
-Tilesets/City center-Fire Nation-Medieval era
+TileSets/FantasyHex/Tiles/City center-Fire Nation-Medieval era
   rotate: false
   xy: 125, 22
   size: 30, 30
   orig: 30, 30
   offset: 0, 0
   index: -1
-Tilesets/FantasyHex/Tiles/City center-Fire Nation-Medieval era
-  rotate: false
-  xy: 125, 22
-  size: 30, 30
-  orig: 30, 30
-  offset: 0, 0
-  index: -1
-Tilesets/City center-Fire Nation-Renaissance era
+TileSets/FantasyHex/Tiles/City center-Fire Nation-Renaissance era
   rotate: false
   xy: 707, 152
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
-Tilesets/FantasyHex/Tiles/City center-Fire Nation-Renaissance era
-  rotate: false
-  xy: 707, 152
-  size: 32, 32
-  orig: 32, 32
-  offset: 0, 0
-  index: -1
-Tilesets/City center-Water Tribe-Ancient era
+TileSets/FantasyHex/Tiles/City center-Water Tribe-Ancient era
   rotate: false
   xy: 747, 156
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
-Tilesets/FantasyHex/Tiles/City center-Water Tribe-Ancient era
-  rotate: false
-  xy: 747, 156
-  size: 32, 32
-  orig: 32, 32
-  offset: 0, 0
-  index: -1
-Tilesets/City center-Water Tribe-Medieval era
+TileSets/FantasyHex/Tiles/City center-Water Tribe-Medieval era
   rotate: false
   xy: 125, 60
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
-Tilesets/FantasyHex/Tiles/City center-Water Tribe-Medieval era
-  rotate: false
-  xy: 125, 60
-  size: 32, 32
-  orig: 32, 32
-  offset: 0, 0
-  index: -1
-Tilesets/Drift Ice Fortress
+TileSets/FantasyHex/Tiles/Drift Ice Fortress
   rotate: false
   xy: 945, 156
   size: 28, 32
   orig: 28, 32
   offset: 0, 0
   index: -1
-Tilesets/FantasyHex/Tiles/Drift Ice Fortress
+TileSets/FantasyHex/Tiles/Ice Fortress
   rotate: false
   xy: 945, 156
   size: 28, 32
   orig: 28, 32
   offset: 0, 0
   index: -1
-Tilesets/FantasyHex/Tiles/Ice Fortress
-  rotate: false
-  xy: 945, 156
-  size: 28, 32
-  orig: 28, 32
-  offset: 0, 0
-  index: -1
-Tilesets/Ice Fortress
-  rotate: false
-  xy: 945, 156
-  size: 28, 32
-  orig: 28, 32
-  offset: 0, 0
-  index: -1
-Tilesets/FantasyHex/Tiles/Great live Tree
+TileSets/FantasyHex/Tiles/Great live Tree
   rotate: false
   xy: 707, 112
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
-Tilesets/Horses-Earth Kingdom
+TileSets/FantasyHex/Tiles/Horses-Earth Kingdom
   rotate: false
   xy: 981, 156
   size: 28, 32
   orig: 28, 32
   offset: 0, 0
   index: -1
-Tilesets/FantasyHex/Tiles/Horses-Earth Kingdom
-  rotate: false
-  xy: 981, 156
-  size: 28, 32
-  orig: 28, 32
-  offset: 0, 0
-  index: -1
-Tilesets/Horses-Fire Nation
+TileSets/FantasyHex/Tiles/Horses-Fire Nation
   rotate: false
   xy: 787, 160
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-Tilesets/FantasyHex/Tiles/Horses-Fire Nation
-  rotate: false
-  xy: 787, 160
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-Tilesets/Horses-Water Tribe
+TileSets/FantasyHex/Tiles/Horses-Water Tribe
   rotate: false
   xy: 747, 120
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-Tilesets/FantasyHex/Tiles/Horses-Water Tribe
-  rotate: false
-  xy: 747, 120
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-Tilesets/Magma plains
+TileSets/FantasyHex/Tiles/Magma plains
   rotate: false
   xy: 165, 64
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-Tilesets/FantasyHex/Tiles/Magma plains
-  rotate: false
-  xy: 165, 64
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-Tilesets/Magma plains+Hill
+TileSets/FantasyHex/Tiles/Magma plains+Hill
   rotate: false
   xy: 205, 64
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-Tilesets/FantasyHex/Tiles/Magma plains+Hill
-  rotate: false
-  xy: 205, 64
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-Tilesets/Magma plains2
+TileSets/FantasyHex/Tiles/Magma plains2
   rotate: false
   xy: 827, 160
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-Tilesets/FantasyHex/Tiles/Magma plains2
-  rotate: false
-  xy: 827, 160
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-Tilesets/Magma plains3
+TileSets/FantasyHex/Tiles/Magma plains3
   rotate: false
   xy: 787, 124
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-Tilesets/FantasyHex/Tiles/Magma plains3
-  rotate: false
-  xy: 787, 124
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-Tilesets/Moon spirits Pond
+TileSets/FantasyHex/Tiles/Moon spirits Pond
   rotate: false
   xy: 867, 156
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
-Tilesets/FantasyHex/Tiles/Moon spirits Pond
-  rotate: false
-  xy: 867, 156
-  size: 32, 32
-  orig: 32, 32
-  offset: 0, 0
-  index: -1
-Tilesets/Temple of Air
+TileSets/FantasyHex/Tiles/Temple of Air
   rotate: false
   xy: 85, 4
   size: 32, 48
   orig: 32, 48
   offset: 0, 0
   index: -1
-Tilesets/FantasyHex/Tiles/Temple of Air
-  rotate: false
-  xy: 85, 4
-  size: 32, 48
-  orig: 32, 48
-  offset: 0, 0
-  index: -1
-Tilesets/Volcanic Prison
+TileSets/FantasyHex/Tiles/Volcanic Prison
   rotate: false
   xy: 45, 20
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-Tilesets/FantasyHex/Tiles/Volcanic Prison
-  rotate: false
-  xy: 45, 20
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-Tilesets/Volcano
-  rotate: false
-  xy: 4, 47
-  size: 33, 45
-  orig: 33, 45
-  offset: 0, 0
-  index: -1
-Tilesets/FantasyHex/Tiles/Volcano
+TileSets/FantasyHex/Tiles/Volcano
   rotate: false
   xy: 4, 47
   size: 33, 45

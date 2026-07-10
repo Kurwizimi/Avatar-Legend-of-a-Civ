@@ -298,7 +298,7 @@
 			"Never appears as a Barbarian unit","Uncapturable"]
 	},
 	{
-		"name": "water Bender",
+		"name": "Water Bender",
 		"uniqueTo": "Water Tribe",
 		"replaces": "Crossbowman",
 		"unitType": "Archery",
